@@ -5,7 +5,7 @@ import VideoPlayer from "./VideoPlayer";
 import VideoList from "./VideoList";
 import SearchBar from "./SearchBar";
 
-const KEY = "AIzaSyCZ1NVntAt6ji5gcKJRXQ_cE_sryEbQiAg";
+const KEY = "Your Api Key";
 
 export default () => {
   const [term, setTerm] = useState("cars");
